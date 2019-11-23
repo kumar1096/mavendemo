@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="325" started-at="2019-11-23T10:09:22 IST" finished-at="2019-11-23T10:09:23 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="325" started-at="2019-11-23T10:09:22 IST" finished-at="2019-11-23T10:09:23 IST">
+      <class name="seenu11.demoTest">
+        <test-method status="PASS" signature="bottletest()[pri:0, instance:seenu11.demoTest@71423665]" name="bottletest" duration-ms="64" started-at="2019-11-23T10:09:23 IST" finished-at="2019-11-23T10:09:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bottletest -->
+        <test-method status="PASS" signature="chargertest()[pri:0, instance:seenu11.demoTest@71423665]" name="chargertest" duration-ms="25" started-at="2019-11-23T10:09:23 IST" finished-at="2019-11-23T10:09:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chargertest -->
+        <test-method status="PASS" signature="remotetest()[pri:0, instance:seenu11.demoTest@71423665]" name="remotetest" duration-ms="10" started-at="2019-11-23T10:09:23 IST" finished-at="2019-11-23T10:09:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- remotetest -->
+      </class> <!-- seenu11.demoTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
